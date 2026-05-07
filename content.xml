@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507231624UBTMH0</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507231624UL2RGX</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EXPLORADORES SALUDABLES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Paula Rando Jiménez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta Situación de Aprendizaje, dirigida al alumnado de 5º de Educación Primaria, propone investigar y desarrollar hábitos de vida saludable a través de un enfoque gamificado. El alumnado explorará diferentes aspectos como la alimentación equilibrada, la actividad física, la higiene, la hidratación, la salud postural y el bienestar emocional. Mediante retos y recursos digitales, el alumnado adquirirá conocimientos y competencias para mejorar su estilo de vida y fomentar su autonomía en el cuidado de la salud.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778187282553</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movyso95-ci8qzbcj4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PORTADA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso95-ci8qzbcj4</odePageId>
+      <odeBlockId>block-1777914279845-by4mj0psc</odeBlockId>
+      <blockName>¿Preparados para la aventura?</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso95-ci8qzbcj4</odePageId>
+          <odeBlockId>block-1777914279845-by4mj0psc</odeBlockId>
+          <odeIdeviceId>idevice-1777914279843-9zk6c3z36</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1054px; text-align: center;"><img src="{{context_path}}/content/resources/ChatGPT Image 4 may 2026, 19_00_02.png" width="1054" height="1492" alt="Exploradores" />
+<figcaption class="figcaption"><span class="author">Paula Rando Jiménez. </span>. <span class="title"><em>Imagen generada con apoyo de inteligencia artificial (ChatGPT). Elaboración propia. </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+<h2 style="text-align: center;">Bienvenidos y bienvenidas a.... ¡Exploradores Saludables!, una aventura pensada para descubrir cómo cuidar nuestro cuerpo, sentirnos mejor y aprender a vivir de forma sana y equilibrada. A lo largo de este proyecto exploraremos hábitos saludables relacionados con la alimentación, el descanso, la actividad física, la higiene y el bienestar emocional, comprendiendo que cada pequeña decisión que tomamos cada día influye en nuestra salud.</h2>
+<p><br /></p>
+<h2 style="text-align: center;">Prepárate para investigar, aprender, crear y convertirte en protagonista de tu propio bienestar.</h2>
+<h2 style="text-align: center;"><br /></h2>
+<p><br /></p>
+<h2 style="text-align: center;">¡Adelante niños y niñas de 5º!</h2>
+<p><br /></p>
+<p><br /></p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914279843-9zk6c3z36","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1054px; text-align: center;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 4 may 2026, 19_00_02.png\" width=\"1054\" height=\"1492\" alt=\"Exploradores\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Paula Rando Jiménez. </span>. <span class=\"title\"><em>Imagen generada con apoyo de inteligencia artificial (ChatGPT). Elaboración propia. </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>\n<h2 style=\"text-align: center;\">Bienvenidos y bienvenidas a.... ¡Exploradores Saludables!, una aventura pensada para descubrir cómo cuidar nuestro cuerpo, sentirnos mejor y aprender a vivir de forma sana y equilibrada. A lo largo de este proyecto exploraremos hábitos saludables relacionados con la alimentación, el descanso, la actividad física, la higiene y el bienestar emocional, comprendiendo que cada pequeña decisión que tomamos cada día influye en nuestra salud.</h2>\n<p><br /></p>\n<h2 style=\"text-align: center;\">Prepárate para investigar, aprender, crear y convertirte en protagonista de tu propio bienestar.</h2>\n<h2 style=\"text-align: center;\"><br /></h2>\n<p><br /></p>\n<h2 style=\"text-align: center;\">¡Adelante niños y niñas de 5º!</h2>\n<p><br /></p>\n<p><br /></p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso99-u8lpzxi9a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso99-u8lpzxi9a</odePageId>
+      <odeBlockId>block-1777914858275-3c5a6o6ua</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso99-u8lpzxi9a</odePageId>
+          <odeBlockId>block-1777914858275-3c5a6o6ua</odeBlockId>
+          <odeIdeviceId>idevice-1777914858272-c0gpfjvnu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En Exploradores Saludables os convertiréis en protagonistas de una aventura en la que descubriréis cómo conocer mejor vuestro cuerpo, aprender a cuidarlo y desarrollar hábitos que os ayuden a sentiros bien cada día. A través del juego, el movimiento y diferentes retos de Educación Física, investigaréis por qué es importante mantenerse activo, alimentarse bien, descansar lo suficiente, cuidar la higiene y atender también al bienestar emocional.</p>
+<p>Durante el proyecto participaréis en actividades prácticas, dinámicas y divertidas que os ayudarán a comprender cómo vuestras decisiones diarias influyen en vuestra salud y en vuestra calidad de vida. Al final, pondréis en práctica todo lo aprendido creando un producto que os permitirá compartir con los demás la importancia de llevar una vida activa, equilibrada y saludable.<br /></p>
+<p>A continuación, se presenta el proyecto mediante enlace directo a canva y su respectiva imagen.</p>
+<p><a href="https://canva.link/jsubwcb53jaa0wp">https://canva.link/jsubwcb53jaa0wp</a></p>
+<p>¿Conoces la importancia de la salud? Visualiza el video y compruébalo.</p>
+<p></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_coam3belm"><iframe width="560" height="315" src="https://www.youtube.com/embed/UroGSIOyUdI?si=CCiLZXiykFVPbOOH" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=UroGSIOyUdI" target="_blank" class="title" rel="noopener"><em>Happy Learning Español. (s. f.). ¿Qué es la salud? | Vídeos educativos para niños [Video]. YouTube. </em></a> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914858272-c0gpfjvnu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En Exploradores Saludables os convertiréis en protagonistas de una aventura en la que descubriréis cómo conocer mejor vuestro cuerpo, aprender a cuidarlo y desarrollar hábitos que os ayuden a sentiros bien cada día. A través del juego, el movimiento y diferentes retos de Educación Física, investigaréis por qué es importante mantenerse activo, alimentarse bien, descansar lo suficiente, cuidar la higiene y atender también al bienestar emocional.</p>\n<p>Durante el proyecto participaréis en actividades prácticas, dinámicas y divertidas que os ayudarán a comprender cómo vuestras decisiones diarias influyen en vuestra salud y en vuestra calidad de vida. Al final, pondréis en práctica todo lo aprendido creando un producto que os permitirá compartir con los demás la importancia de llevar una vida activa, equilibrada y saludable.<br /></p>\n<p>A continuación, se presenta el proyecto mediante enlace directo a canva y su respectiva imagen.</p>\n<p><a href=\"https://canva.link/jsubwcb53jaa0wp\">https://canva.link/jsubwcb53jaa0wp</a></p>\n<p>¿Conoces la importancia de la salud? Visualiza el video y compruébalo.</p>\n<p></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_coam3belm\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UroGSIOyUdI?si=CCiLZXiykFVPbOOH\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/watch?v=UroGSIOyUdI\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Happy Learning Español. (s. f.). ¿Qué es la salud? | Vídeos educativos para niños [Video]. YouTube. </em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyso99-u8lpzxi9a</odePageId>
+      <odeBlockId>block-1777916437264-el6nh2o8g</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso99-u8lpzxi9a</odePageId>
+          <odeBlockId>block-1777916437264-el6nh2o8g</odeBlockId>
+          <odeIdeviceId>idevice-1777916437261-sdutvgd94</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777916437261-sdutvgd94" title="Descripción del proyecto" href="{{context_path}}/content/resources/Tarea 2.1. Paula Rando Jiménez.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Tarea 2.1. Paula Rando Jiménez.png" height="128" width="128" title="Descripción del proyecto" alt="Descripción del proyecto" titlelink="" author="" authorlink="" license="CC-BY-NC-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777916437261-sdutvgd94","img_0":{"img":"{{context_path}}/content/resources/Tarea 2.1. Paula Rando Jiménez.png","thumbnail":"{{context_path}}/content/resources/Tarea 2.1. Paula Rando Jiménez.png","title":"Descripción del proyecto","linktitle":"","author":"","linkauthor":"","license":"CC-BY-NC-SA"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9d-dgdlefgxh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9d-dgdlefgxh</odePageId>
+      <odeBlockId>block-1777916874881-q11xvzq7t</odeBlockId>
+      <blockName>Protege tu talento y respeta el de los demás</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9d-dgdlefgxh</odePageId>
+          <odeBlockId>block-1777916874881-q11xvzq7t</odeBlockId>
+          <odeIdeviceId>idevice-1777916874879-t2av8tqs3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto digital es importante que tomes conciencia sobre la protección de tus datos y el uso responsable de la información en internet. Hoy en día, compartir contenido es muy fácil, pero también puede implicar riesgos si no lo haces de forma segura. </p>
+<p>La infografía que acompaña esta actividad te ayudará a recordar las normas básicas de seguridad digital. Tu responsabilidad en el entorno digital es clave para crear un espacio seguro y respetuoso para todos y todas.</p>
+<p><a href="https://canva.link/iz8n1gooby2p7q8" title="">https://canva.link/iz8n1gooby2p7q8</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777916874879-t2av8tqs3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto digital es importante que tomes conciencia sobre la protección de tus datos y el uso responsable de la información en internet. Hoy en día, compartir contenido es muy fácil, pero también puede implicar riesgos si no lo haces de forma segura. </p>\n<p>La infografía que acompaña esta actividad te ayudará a recordar las normas básicas de seguridad digital. Tu responsabilidad en el entorno digital es clave para crear un espacio seguro y respetuoso para todos y todas.</p>\n<p><a href=\"https://canva.link/iz8n1gooby2p7q8\" title=\"\">https://canva.link/iz8n1gooby2p7q8</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyso9d-dgdlefgxh</odePageId>
+      <odeBlockId>block-1777917152101-4dqx2g1jj</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9d-dgdlefgxh</odePageId>
+          <odeBlockId>block-1777917152101-4dqx2g1jj</odeBlockId>
+          <odeIdeviceId>idevice-1777917152099-gcfy1e5rl</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777917152099-gcfy1e5rl" title="Infografía" href="{{context_path}}/content/resources/2.3. Licencias y seguridad. Paula Rando Jiménez.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.3. Licencias y seguridad. Paula Rando Jiménez.jpg" height="128" width="128" title="Infografía" alt="Infografía" titlelink="" author="" authorlink="" license="CC-BY-NC-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777917152099-gcfy1e5rl","img_0":{"img":"{{context_path}}/content/resources/2.3. Licencias y seguridad. Paula Rando Jiménez.jpg","thumbnail":"{{context_path}}/content/resources/2.3. Licencias y seguridad. Paula Rando Jiménez.jpg","title":"Infografía","linktitle":"","author":"","linkauthor":"","license":"CC-BY-NC-SA"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9f-krqpl2vaw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DEL CONTENIDO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DEL CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DEL CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CURACIÓN DEL CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9f-krqpl2vaw</odePageId>
+      <odeBlockId>block-1777917359871-2jsdir97s</odeBlockId>
+      <blockName>¿Cómo nos organizamos?</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9f-krqpl2vaw</odePageId>
+          <odeBlockId>block-1777917359871-2jsdir97s</odeBlockId>
+          <odeIdeviceId>idevice-1777917359865-9vwpqq1ow</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La curación de contenidos es una forma de trabajar con la información que te ayudará a aprender de manera más organizada y eficaz. Consiste en buscar, seleccionar y usar solo aquellos recursos que realmente te sean útiles para entender mejor los temas que estamos viendo en clase. No toda la información que encuentras en internet es igual de válida, por eso es importante aprender a filtrar y quedarte con lo más claro, fiable e interesante.</p>
+<p>Además, una parte clave de este proceso es organizar bien los contenidos que vas encontrando. Si los clasificas desde el principio, te resultará mucho más fácil repasarlos, estudiarlos y utilizarlos cuando los necesites, evitando que se conviertan en un conjunto desordenado de información difícil de aprovechar.<br /></p>
+<p>Aquí tenéis los dos ejemplos realizados para este proyecto.</p>
+<p>Padlet para el alumnado:</p>
+<p><a href="https://padlet.com/pranjim760/exploradores-saludables-irnthppx6gljf3en">https://padlet.com/pranjim760/exploradores-saludables-irnthppx6gljf3en</a></p>
+<p>Symbaloo para el profesorado:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAABFm8FeAAA41_lduuzw==">https://www.symbaloo.com/shared/AAAABFm8FeAAA41_lduuzw==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777917359865-9vwpqq1ow","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La curación de contenidos es una forma de trabajar con la información que te ayudará a aprender de manera más organizada y eficaz. Consiste en buscar, seleccionar y usar solo aquellos recursos que realmente te sean útiles para entender mejor los temas que estamos viendo en clase. No toda la información que encuentras en internet es igual de válida, por eso es importante aprender a filtrar y quedarte con lo más claro, fiable e interesante.</p>\n<p>Además, una parte clave de este proceso es organizar bien los contenidos que vas encontrando. Si los clasificas desde el principio, te resultará mucho más fácil repasarlos, estudiarlos y utilizarlos cuando los necesites, evitando que se conviertan en un conjunto desordenado de información difícil de aprovechar.<br /></p>\n<p>Aquí tenéis los dos ejemplos realizados para este proyecto.</p>\n<p>Padlet para el alumnado:</p>\n<p><a href=\"https://padlet.com/pranjim760/exploradores-saludables-irnthppx6gljf3en\">https://padlet.com/pranjim760/exploradores-saludables-irnthppx6gljf3en</a></p>\n<p>Symbaloo para el profesorado:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABFm8FeAAA41_lduuzw==\">https://www.symbaloo.com/shared/AAAABFm8FeAAA41_lduuzw==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9g-1lwuhe0xp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MAPA MENTAL</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MAPA MENTAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MAPA MENTAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MAPA MENTAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9g-1lwuhe0xp</odePageId>
+      <odeBlockId>block-1777917826458-c1gf9760n</odeBlockId>
+      <blockName>¡Aquí tienes la ruta!</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9g-1lwuhe0xp</odePageId>
+          <odeBlockId>block-1777917826458-c1gf9760n</odeBlockId>
+          <odeIdeviceId>idevice-1777917826456-t9xpern4i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este mapa mental vais a encontrar diferentes actividades en las que descubriréis cómo cuidar vuestro cuerpo y vuestra mente de una forma divertida, creativa y práctica.</p>
+<p>No todos aprendemos igual, así que encontraréis retos muy distintos: escribir, crear, moveros, investigar, dibujar o incluso hacer música. La idea es que cada uno pueda aprender a su manera mientras desarrolla nuevas habilidades.</p>
+<p>Al final del recorrido, no solo sabréis más sobre hábitos saludables, sino que también habréis creado vuestro propio plan para sentiros mejor en vuestro día a día.</p>
+<h6> </h6>
+<h6>¿En qué orden haremos las actividades?<br /><br /></h6>
+<p>📓 Diario saludable<br />Empezaréis observando vuestro día a día: qué coméis, cuánto os movéis, cómo descansáis y cómo os sentís.<br />📊 Mi contador de actividad<br />Después analizaréis vuestros hábitos con datos y gráficos para entender mejor vuestra rutina.<br />🧠 Infografía del cuerpo activo<br />Investigaréis cómo influye el ejercicio en vuestro cuerpo y lo explicaréis de forma visual.<br />🎵 Canción saludable<br />En equipo, crearéis una canción sobre hábitos saludables. ¡Creatividad al máximo!<br />💬 Historias saludables<br />También en grupo, inventaréis historias o cómics que enseñen a otros a cuidarse.<br />🏃 Circuito motriz<br />Pasaréis a la acción diseñando y realizando un circuito de actividad física.<br />🍎 SaludArte<br />Crearéis una obra artística con alimentos saludables. ¡Sí, el arte también se come (o casi)!<br />🌟 Mi plan de bienestar<br />Para terminar, diseñaréis vuestro propio plan personal para llevar una vida más saludable.</p>
+<p><br /></p>
+<p>Adjunto el enlace del mapa mental creado con la herramienta mindmeister, así como la imagen para visualizarlo completo.</p>
+<p><a href="https://mm.tt/map/3987577865?t=fj5vj8kZ9A">https://mm.tt/map/3987577865?t=fj5vj8kZ9A</a></p>
+<figure class="exe-figure position-center" style="width: 1536px; text-align: center;"><img src="{{context_path}}/content/resources/7.1. Mapa mental.jpg" width="1536" height="681" alt="Mapa mental" />
+<figcaption class="figcaption"><span class="author">Paula Rando Jiménez</span>. <span class="title"><em> Mapa mental. Creación propia.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777917826456-t9xpern4i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este mapa mental vais a encontrar diferentes actividades en las que descubriréis cómo cuidar vuestro cuerpo y vuestra mente de una forma divertida, creativa y práctica.</p>\n<p>No todos aprendemos igual, así que encontraréis retos muy distintos: escribir, crear, moveros, investigar, dibujar o incluso hacer música. La idea es que cada uno pueda aprender a su manera mientras desarrolla nuevas habilidades.</p>\n<p>Al final del recorrido, no solo sabréis más sobre hábitos saludables, sino que también habréis creado vuestro propio plan para sentiros mejor en vuestro día a día.</p>\n<h6> </h6>\n<h6>¿En qué orden haremos las actividades?<br /><br /></h6>\n<p>📓 Diario saludable<br />Empezaréis observando vuestro día a día: qué coméis, cuánto os movéis, cómo descansáis y cómo os sentís.<br />📊 Mi contador de actividad<br />Después analizaréis vuestros hábitos con datos y gráficos para entender mejor vuestra rutina.<br />🧠 Infografía del cuerpo activo<br />Investigaréis cómo influye el ejercicio en vuestro cuerpo y lo explicaréis de forma visual.<br />🎵 Canción saludable<br />En equipo, crearéis una canción sobre hábitos saludables. ¡Creatividad al máximo!<br />💬 Historias saludables<br />También en grupo, inventaréis historias o cómics que enseñen a otros a cuidarse.<br />🏃 Circuito motriz<br />Pasaréis a la acción diseñando y realizando un circuito de actividad física.<br />🍎 SaludArte<br />Crearéis una obra artística con alimentos saludables. ¡Sí, el arte también se come (o casi)!<br />🌟 Mi plan de bienestar<br />Para terminar, diseñaréis vuestro propio plan personal para llevar una vida más saludable.</p>\n<p><br /></p>\n<p>Adjunto el enlace del mapa mental creado con la herramienta mindmeister, así como la imagen para visualizarlo completo.</p>\n<p><a href=\"https://mm.tt/map/3987577865?t=fj5vj8kZ9A\">https://mm.tt/map/3987577865?t=fj5vj8kZ9A</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px; text-align: center;\"><img src=\"{{context_path}}/content/resources/7.1. Mapa mental.jpg\" width=\"1536\" height=\"681\" alt=\"Mapa mental\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Paula Rando Jiménez</span>. <span class=\"title\"><em> Mapa mental. Creación propia.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9i-pkik4ztj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9i-pkik4ztj2</odePageId>
+      <odeBlockId>block-1777918875165-8m2eirjsr</odeBlockId>
+      <blockName>Conocemos las actividades</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9i-pkik4ztj2</odePageId>
+          <odeBlockId>block-1777918875165-8m2eirjsr</odeBlockId>
+          <odeIdeviceId>idevice-1777918875161-46bxuboii</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta guía os acompañará durante todo el proyecto “Exploradores Saludables”. En ella encontraréis todas las actividades que vais a realizar, explicadas paso a paso, así como los materiales que necesitaréis y las indicaciones para trabajar de forma individual, en pareja o en grupo. A través de este recorrido, iréis aprendiendo cómo cuidar vuestra salud mientras desarrolláis vuestra creatividad, vuestra capacidad de reflexión y vuestro trabajo en equipo.</p>
+<p>Utilizad esta guía como apoyo en cada reto y recordad que sois los protagonistas de vuestro propio aprendizaje.</p>
+<ul>
+<li><a href="1-diario-saludable-.html" title="">Actividad 1. Diario saludable.</a></li>
+<li><a href="2-mi-contador-de-actividad-.html" title="">Actividad 2. Mi contador de actividad.</a></li>
+<li><a href="3-infografia-del-cuerpo-activo-.html" title="">Actividad 3. Infografía del cuerpo activo.</a></li>
+<li><a href="4-cancion-saludable-.html" title="">Actividad 4. Canción saludable.</a></li>
+<li><a href="5-historias-saludables-.html" title="">Actividad 5. Historias saludables.</a></li>
+<li><a href="6-circuito-motriz-.html" title="">Actividad 6. Circuito motriz.</a></li>
+<li><a href="7-saludarte-.html" title="">Actividad 7. SaludArte.</a></li>
+<li><a href="8-mi-plan-de-bienestar-.html" title="">Actividad 8. Mi plan de bienestar.</a></li>
+</ul>
+<p>Puedes ver además en el siguiente enlace una tabla resumen de las actividades propuestas:</p>
+<p><a href="https://docs.google.com/document/d/1CTNwU1bnxJZegOwSVft9gAsluMRmAweeJ8hsS_cf9jM/edit?usp=sharing" title="">https://docs.google.com/document/d/1CTNwU1bnxJZegOwSVft9gAsluMRmAweeJ8hsS_cf9jM/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777918875161-46bxuboii","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía os acompañará durante todo el proyecto “Exploradores Saludables”. En ella encontraréis todas las actividades que vais a realizar, explicadas paso a paso, así como los materiales que necesitaréis y las indicaciones para trabajar de forma individual, en pareja o en grupo. A través de este recorrido, iréis aprendiendo cómo cuidar vuestra salud mientras desarrolláis vuestra creatividad, vuestra capacidad de reflexión y vuestro trabajo en equipo.</p>\n<p>Utilizad esta guía como apoyo en cada reto y recordad que sois los protagonistas de vuestro propio aprendizaje.</p>\n<ul>\n<li><a href=\"exe-node:page-movyso9j-knklakkqc\" title=\"\">Actividad 1. Diario saludable.</a></li>\n<li><a href=\"exe-node:page-movyso9k-8hjk58ghw\" title=\"\">Actividad 2. Mi contador de actividad.</a></li>\n<li><a href=\"exe-node:page-movyso9l-46jfk99e5\" title=\"\">Actividad 3. Infografía del cuerpo activo.</a></li>\n<li><a href=\"exe-node:page-movyso9m-twvm9l01w\" title=\"\">Actividad 4. Canción saludable.</a></li>\n<li><a href=\"exe-node:page-movyso9m-w7s4q2uhe\" title=\"\">Actividad 5. Historias saludables.</a></li>\n<li><a href=\"exe-node:page-movyso9n-tzb6m28n5\" title=\"\">Actividad 6. Circuito motriz.</a></li>\n<li><a href=\"exe-node:page-movyso9n-dq6xnvoc6\" title=\"\">Actividad 7. SaludArte.</a></li>\n<li><a href=\"exe-node:page-movyso9p-608pew7nc\" title=\"\">Actividad 8. Mi plan de bienestar.</a></li>\n</ul>\n<p>Puedes ver además en el siguiente enlace una tabla resumen de las actividades propuestas:</p>\n<p><a href=\"https://docs.google.com/document/d/1CTNwU1bnxJZegOwSVft9gAsluMRmAweeJ8hsS_cf9jM/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1CTNwU1bnxJZegOwSVft9gAsluMRmAweeJ8hsS_cf9jM/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9j-knklakkqc</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>1. Diario saludable 📓</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Diario saludable 📓</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Diario saludable 📓</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Diario saludable 📓</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9j-knklakkqc</odePageId>
+      <odeBlockId>block-1777994970393-jfb0jr6sm</odeBlockId>
+      <blockName>Inteligencia Lingüística</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9j-knklakkqc</odePageId>
+          <odeBlockId>block-1777994970393-jfb0jr6sm</odeBlockId>
+          <odeIdeviceId>idevice-1777994970390-6945ovxxy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Elaboración de un diario donde el alumnado registra actividad física, alimentación, descanso y emociones.</p>
+<h2>¿Qué se evalúa?</h2>
+<p>1.1.a → Reflexión sobre beneficios físicos y mentales</p>
+<p>1.2.a → Hábitos saludables</p>
+<p>2.2.a → Seguimiento del proceso</p>
+<h2>Herramientas digitales</h2>
+<p><span style="color: #000000;"><a href="https://www.canva.com/" title="" style="color: #000000;">Canva</a></span></p>
+<p><span style="color: #000000;"><a href="https://padlet.com/dashboard?mobile_page=Collection&filter=combined_recents" title="" style="color: #000000;">Padlet</a></span></p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios</h2>
+<p>Aula</p>
+</div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994970390-6945ovxxy","textInfoDurationInput":"1 sesión de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Elaboración de un diario donde el alumnado registra actividad física, alimentación, descanso y emociones.</p>\n<h2>¿Qué se evalúa?</h2>\n<p>1.1.a → Reflexión sobre beneficios físicos y mentales</p>\n<p>1.2.a → Hábitos saludables</p>\n<p>2.2.a → Seguimiento del proceso</p>\n<h2>Herramientas digitales</h2>\n<p><span style=\"color: #000000;\"><a href=\"https://www.canva.com/\" title=\"\" style=\"color: #000000;\">Canva</a></span></p>\n<p><span style=\"color: #000000;\"><a href=\"https://padlet.com/dashboard?mobile_page=Collection&filter=combined_recents\" title=\"\" style=\"color: #000000;\">Padlet</a></span></p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios</h2>\n<p>Aula</p>\n</div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9k-8hjk58ghw</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>2. Mi contador de actividad 📊</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Mi contador de actividad 📊</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Mi contador de actividad 📊</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Mi contador de actividad 📊</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9k-8hjk58ghw</odePageId>
+      <odeBlockId>block-1777994506157-z1etkh9pi</odeBlockId>
+      <blockName>Inteligencia Lógico-Matemática</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9k-8hjk58ghw</odePageId>
+          <odeBlockId>block-1777994506157-z1etkh9pi</odeBlockId>
+          <odeIdeviceId>idevice-1777994506154-5ha4mjljr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual con apoyo en parejas</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Registro y análisis de datos (pasos, tiempo activo, frecuencia cardiaca) con gráficos.</p>
+<h2>¿Qué se evalúa?<br /></h2>
+<p> 1.1.a → Relación actividad-beneficios</p>
+<p>2.1.a → Establecer metas</p>
+<p>2.3.a → Análisis de resultados<br /></p>
+<h2>Herramientas digitales</h2>
+<p><span style="color: #000000;"><a href="https://www.canva.com/" title="" style="color: #000000;">Canva</a></span></p>
+<p>Hojas de cálculo</p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios</h2>
+<p>Aula</p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994506154-5ha4mjljr","textInfoDurationInput":"1 sesión de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual con apoyo en parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual con apoyo en parejas</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Registro y análisis de datos (pasos, tiempo activo, frecuencia cardiaca) con gráficos.</p>\n<h2>¿Qué se evalúa?<br /></h2>\n<p> 1.1.a → Relación actividad-beneficios</p>\n<p>2.1.a → Establecer metas</p>\n<p>2.3.a → Análisis de resultados<br /></p>\n<h2>Herramientas digitales</h2>\n<p><span style=\"color: #000000;\"><a href=\"https://www.canva.com/\" title=\"\" style=\"color: #000000;\">Canva</a></span></p>\n<p>Hojas de cálculo</p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios</h2>\n<p>Aula</p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9l-46jfk99e5</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>3. Infografía del cuerpo activo 🧠</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Infografía del cuerpo activo 🧠</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Infografía del cuerpo activo 🧠</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Infografía del cuerpo activo 🧠</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9l-46jfk99e5</odePageId>
+      <odeBlockId>block-1777995071254-x1cadfdin</odeBlockId>
+      <blockName>Inteligencia Espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9l-46jfk99e5</odePageId>
+          <odeBlockId>block-1777995071254-x1cadfdin</odeBlockId>
+          <odeIdeviceId>idevice-1777995071251-nnvn6nb7t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Creación de una infografía sobre efectos del ejercicio en el cuerpo.</p>
+<h2>¿Qué se evalúa?</h2>
+<p>1.1.a → Beneficios físicos y mentales</p>
+<p>1.4.a → Imagen corporal positiva<br /></p>
+<h2>Herramientas digitales</h2>
+<p><span style="color: #000000;"><a href="https://www.canva.com/" title="" style="color: #000000;">Canva</a></span></p>
+<p><span style="color: #000000;"><a href="https://genially.com/es/?v=A" title="" style="color: #000000;">Genially</a></span></p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios</h2>
+<p>Aula</p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995071251-nnvn6nb7t","textInfoDurationInput":"1 sesión de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Creación de una infografía sobre efectos del ejercicio en el cuerpo.</p>\n<h2>¿Qué se evalúa?</h2>\n<p>1.1.a → Beneficios físicos y mentales</p>\n<p>1.4.a → Imagen corporal positiva<br /></p>\n<h2>Herramientas digitales</h2>\n<p><span style=\"color: #000000;\"><a href=\"https://www.canva.com/\" title=\"\" style=\"color: #000000;\">Canva</a></span></p>\n<p><span style=\"color: #000000;\"><a href=\"https://genially.com/es/?v=A\" title=\"\" style=\"color: #000000;\">Genially</a></span></p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios</h2>\n<p>Aula</p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9m-twvm9l01w</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>4. Canción saludable 🎵</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Canción saludable 🎵</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Canción saludable 🎵</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9m-twvm9l01w</odePageId>
+      <odeBlockId>block-1777995222524-4ucmb5qn9</odeBlockId>
+      <blockName>Inteligencia Musical</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9m-twvm9l01w</odePageId>
+          <odeBlockId>block-1777995222524-4ucmb5qn9</odeBlockId>
+          <odeIdeviceId>idevice-1777995222522-8kyqf6k9u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>2 sesiones de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeños grupos</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Producción de una canción sobre hábitos saludables (letra + ritmo corporal o instrumental sencillo) y grabación. Interpretación con movimientos.</p>
+<h2>¿Qué se evalúa?</h2>
+<p>1.2.a → Rutinas saludables</p>
+<p>3.1.a → Gestión emocional</p>
+<p>3.2.a → Trabajo en grupo</p>
+<p>4.3.a → Expresión corporal<br /></p>
+<h2>Herramientas digitales</h2>
+<p><span style="color: #000000;"><a href="https://www.incredibox.com/es/" style="color: #000000;" title="">Incredibox (creación)</a></span></p>
+<p><span style="color: #000000;"><a href="https://vocaroo.com/" title="https://vocaroo.com/" style="color: #000000;">Vocaroo (grabación)</a></span></p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios</h2>
+<p>Aula</p>
+</div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995222522-8kyqf6k9u","textInfoDurationInput":"2 sesiones de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Pequeños grupos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>2 sesiones de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeños grupos</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Producción de una canción sobre hábitos saludables (letra + ritmo corporal o instrumental sencillo) y grabación. Interpretación con movimientos.</p>\n<h2>¿Qué se evalúa?</h2>\n<p>1.2.a → Rutinas saludables</p>\n<p>3.1.a → Gestión emocional</p>\n<p>3.2.a → Trabajo en grupo</p>\n<p>4.3.a → Expresión corporal<br /></p>\n<h2>Herramientas digitales</h2>\n<p><span style=\"color: #000000;\"><a href=\"https://www.incredibox.com/es/\" style=\"color: #000000;\" title=\"\">Incredibox (creación)</a></span></p>\n<p><span style=\"color: #000000;\"><a href=\"https://vocaroo.com/\" title=\"https://vocaroo.com/\" style=\"color: #000000;\">Vocaroo (grabación)</a></span></p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios</h2>\n<p>Aula</p>\n</div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9m-w7s4q2uhe</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>5. Historias saludables 💬</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Historias saludables 💬</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Historias saludables 💬</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9m-w7s4q2uhe</odePageId>
+      <odeBlockId>block-1777995478313-d4yfxakga</odeBlockId>
+      <blockName>Inteligencia Interpersonal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9m-w7s4q2uhe</odePageId>
+          <odeBlockId>block-1777995478313-d4yfxakga</odeBlockId>
+          <odeIdeviceId>idevice-1777995478311-jleuf8b67</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>2 sesiones de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeños grupos</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Invención de una historia con dados narrativos (Story Cubes/Story Dice) sobre hábitos saludables y posterior diseño de un cómic.</p>
+<h2>¿Qué se evalúa?<br /></h2>
+<p>1.4.a → Aceptación y respeto a las diferencias.</p>
+<p>3.2.a → Respeto normas.</p>
+<p>3.3.a → Cooperación y resolución de conflictos.<br /></p>
+<h2>Herramientas digitales</h2>
+<p><span style="color: #000000;"><a href="https://www.pixton.com/es/" title="" style="color: #000000;">Pixton</a></span></p>
+<p><span style="color: #000000;"><a href="https://www.canva.com/" title="" style="color: #000000;">Canva</a></span></p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios<br /></h2>
+<p>Aula</p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995478311-jleuf8b67","textInfoDurationInput":"2 sesiones de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Pequeños grupos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>2 sesiones de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeños grupos</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Invención de una historia con dados narrativos (Story Cubes/Story Dice) sobre hábitos saludables y posterior diseño de un cómic.</p>\n<h2>¿Qué se evalúa?<br /></h2>\n<p>1.4.a → Aceptación y respeto a las diferencias.</p>\n<p>3.2.a → Respeto normas.</p>\n<p>3.3.a → Cooperación y resolución de conflictos.<br /></p>\n<h2>Herramientas digitales</h2>\n<p><span style=\"color: #000000;\"><a href=\"https://www.pixton.com/es/\" title=\"\" style=\"color: #000000;\">Pixton</a></span></p>\n<p><span style=\"color: #000000;\"><a href=\"https://www.canva.com/\" title=\"\" style=\"color: #000000;\">Canva</a></span></p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios<br /></h2>\n<p>Aula</p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9n-tzb6m28n5</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>6. Circuito motriz 🏃</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Circuito motriz 🏃</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Circuito motriz 🏃</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9n-tzb6m28n5</odePageId>
+      <odeBlockId>block-1777995694569-k4qqqhnin</odeBlockId>
+      <blockName>Inteligencia Corporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9n-tzb6m28n5</odePageId>
+          <odeBlockId>block-1777995694569-k4qqqhnin</odeBlockId>
+          <odeIdeviceId>idevice-1777995694565-4retix1rp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>2 sesiones de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeños grupos</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Diseño de un circuito de actividad física (fuerza, equilibrio, coordinación, movilidad) incluyendo normas de seguridad y prevención.</p>
+<h2>¿Qué se evalúa?</h2>
+<p>1.1.a → Actividad física como ocio saludable</p>
+<p>1.3.a → Prevención de lesiones</p>
+<h2>Herramientas digitales</h2>
+<p>Videos explicativos (ideas)</p>
+<p><span style="color: #000000;"><a href="https://www.canva.com/" title="" style="color: #000000;">Canva</a> (diseño)</span><br /></p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios</h2>
+<p>Aula</p>
+<p>Gimnasio</p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995694565-4retix1rp","textInfoDurationInput":"2 sesiones de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Pequeños grupos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>2 sesiones de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeños grupos</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Diseño de un circuito de actividad física (fuerza, equilibrio, coordinación, movilidad) incluyendo normas de seguridad y prevención.</p>\n<h2>¿Qué se evalúa?</h2>\n<p>1.1.a → Actividad física como ocio saludable</p>\n<p>1.3.a → Prevención de lesiones</p>\n<h2>Herramientas digitales</h2>\n<p>Videos explicativos (ideas)</p>\n<p><span style=\"color: #000000;\"><a href=\"https://www.canva.com/\" title=\"\" style=\"color: #000000;\">Canva</a> (diseño)</span><br /></p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios</h2>\n<p>Aula</p>\n<p>Gimnasio</p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9n-dq6xnvoc6</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>7. SaludArte 🍎</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. SaludArte 🍎</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. SaludArte 🍎</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9n-dq6xnvoc6</odePageId>
+      <odeBlockId>block-1777995878616-z0t8h8fxx</odeBlockId>
+      <blockName>Inteligencia Naturalista</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9n-dq6xnvoc6</odePageId>
+          <odeBlockId>block-1777995878616-z0t8h8fxx</odeBlockId>
+          <odeIdeviceId>idevice-1777995878614-v5e8qkzwm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción<br /></h2>
+<p>Creación de una obra artística utilizando frutas (formas, colores, composiciones…) para realizar una foto y compartirla.</p>
+<h2>¿Qué se evalúa?</h2>
+<p>1.2.a → Hábitos de alimentación saludable.</p>
+<p>4.3.a → Ideas y emociones a través del cuerpo y la creatividad.</p>
+<p>5.1.a → Respeto del entorno.<br /></p>
+<h2>Herramientas digitales</h2>
+<p>Jamboard</p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios</h2>
+<p>Aula</p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995878614-v5e8qkzwm","textInfoDurationInput":"1 sesión de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción<br /></h2>\n<p>Creación de una obra artística utilizando frutas (formas, colores, composiciones…) para realizar una foto y compartirla.</p>\n<h2>¿Qué se evalúa?</h2>\n<p>1.2.a → Hábitos de alimentación saludable.</p>\n<p>4.3.a → Ideas y emociones a través del cuerpo y la creatividad.</p>\n<p>5.1.a → Respeto del entorno.<br /></p>\n<h2>Herramientas digitales</h2>\n<p>Jamboard</p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios</h2>\n<p>Aula</p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9p-608pew7nc</odePageId>
+  <odeParentPageId>page-movyso9i-pkik4ztj2</odeParentPageId>
+  <pageName>8. Mi plan de bienestar 🌟</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Mi plan de bienestar 🌟</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Mi plan de bienestar 🌟</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9p-608pew7nc</odePageId>
+      <odeBlockId>block-1777996062114-l4czyp1xv</odeBlockId>
+      <blockName>Inteligencia Intrapersonal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9p-608pew7nc</odePageId>
+          <odeBlockId>block-1777996062114-l4czyp1xv</odeBlockId>
+          <odeIdeviceId>idevice-1777996062111-qr2vtjjhy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Diseño de un plan personal con objetivos realistas de actividad física, descanso y alimentación.</p>
+<h2>¿Qué se evalúa?</h2>
+<p>2.1.a → Metas claras</p>
+<p>1.2.a → Rutinas saludables</p>
+<p>3.1.a → Autocontrol emocional<br /></p>
+<h2>Herramientas digitales</h2>
+<p><span style="color: #000000;"><a href="https://www.canva.com/" title="" style="color: #000000;">Canva</a></span></p>
+<h2>Recursos </h2>
+<p>Dispositivos digitales</p>
+<h2>Espacios</h2>
+<p>Aula<br /></p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996062111-qr2vtjjhy","textInfoDurationInput":"1 sesión de 60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1 sesión de 60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Diseño de un plan personal con objetivos realistas de actividad física, descanso y alimentación.</p>\n<h2>¿Qué se evalúa?</h2>\n<p>2.1.a → Metas claras</p>\n<p>1.2.a → Rutinas saludables</p>\n<p>3.1.a → Autocontrol emocional<br /></p>\n<h2>Herramientas digitales</h2>\n<p><span style=\"color: #000000;\"><a href=\"https://www.canva.com/\" title=\"\" style=\"color: #000000;\">Canva</a></span></p>\n<h2>Recursos </h2>\n<p>Dispositivos digitales</p>\n<h2>Espacios</h2>\n<p>Aula<br /></p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9q-9ua3cfmhx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9q-9ua3cfmhx</odePageId>
+      <odeBlockId>block-1777997074714-do1kya5k5</odeBlockId>
+      <blockName>La misión final de Los Exploradores Saludables</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9q-9ua3cfmhx</odePageId>
+          <odeBlockId>block-1777997074714-do1kya5k5</odeBlockId>
+          <odeIdeviceId>idevice-1777997074709-2j5j708qo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización del producto final de esta Situación de Aprendizaje titulada "Exploradores saludables” se propone al alumnado la utilización de la herramienta digital Genially con el objetivo de crear un póster interactivo sobre hábitos de vida saludable, un recurso digital en el que se recogerán las diferentes evidencias de las tareas realizadas durante la actividad.</p>
+<p>Se pretende que el alumnado identifique y aplique hábitos saludables a través de una dinámica basada en la exploración. Cada código QR dará acceso a un reto motor o a una breve información relacionada con la salud. Los grupos deberán completar las pruebas propuestas y registrar la información obtenida en un Genially, organizándola de manera visual e interactiva.</p>
+<p>La elección de esta herramienta se justifica por la versatilidad que ofrece, ya que permite integrar textos, imágenes, enlaces y elementos interactivos en un mismo soporte. Esto facilita la recopilación de evidencias del aprendizaje y la presentación del producto final de forma atractiva, y motivadora para el alumnado.</p>
+<p>Asimismo, Genially resulta adecuada al contexto del centro educativo, ya que funciona online y es accesible desde los dispositivos disponibles (ordenadores o tabletas con acceso a internet). Su uso intuitivo la hace apropiada para 5.º de Primaria y sus características, ajustándose al nivel de competencia digital del alumnado, ya que no requiere conocimientos avanzados y permite centrarse en los contenidos de la Situación de Aprendizaje sin que el uso de la tecnología suponga una barrera, sino que favorece el desarrollo progresivo de su competencia digital.</p>
+<p>De este modo, la herramienta seleccionada se ajusta tanto a las necesidades pedagógicas de la actividad como a la edad y nivel de competencia digital del alumnado y a los recursos disponibles en el centro.<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997074709-2j5j708qo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización del producto final de esta Situación de Aprendizaje titulada \"Exploradores saludables” se propone al alumnado la utilización de la herramienta digital Genially con el objetivo de crear un póster interactivo sobre hábitos de vida saludable, un recurso digital en el que se recogerán las diferentes evidencias de las tareas realizadas durante la actividad.</p>\n<p>Se pretende que el alumnado identifique y aplique hábitos saludables a través de una dinámica basada en la exploración. Cada código QR dará acceso a un reto motor o a una breve información relacionada con la salud. Los grupos deberán completar las pruebas propuestas y registrar la información obtenida en un Genially, organizándola de manera visual e interactiva.</p>\n<p>La elección de esta herramienta se justifica por la versatilidad que ofrece, ya que permite integrar textos, imágenes, enlaces y elementos interactivos en un mismo soporte. Esto facilita la recopilación de evidencias del aprendizaje y la presentación del producto final de forma atractiva, y motivadora para el alumnado.</p>\n<p>Asimismo, Genially resulta adecuada al contexto del centro educativo, ya que funciona online y es accesible desde los dispositivos disponibles (ordenadores o tabletas con acceso a internet). Su uso intuitivo la hace apropiada para 5.º de Primaria y sus características, ajustándose al nivel de competencia digital del alumnado, ya que no requiere conocimientos avanzados y permite centrarse en los contenidos de la Situación de Aprendizaje sin que el uso de la tecnología suponga una barrera, sino que favorece el desarrollo progresivo de su competencia digital.</p>\n<p>De este modo, la herramienta seleccionada se ajusta tanto a las necesidades pedagógicas de la actividad como a la edad y nivel de competencia digital del alumnado y a los recursos disponibles en el centro.<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9s-oy9oaigbz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9s-oy9oaigbz</odePageId>
+      <odeBlockId>block-1777996249933-imyurrjoh</odeBlockId>
+      <blockName>¿Cómo evaluamos?</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9s-oy9oaigbz</odePageId>
+          <odeBlockId>block-1777996249933-imyurrjoh</odeBlockId>
+          <odeIdeviceId>idevice-1777996249930-kzf1awptt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-layout-2-cols exe-layout-2-50-50 exe-clear">
+<div class="exe-fx exe-carousel">
+<p>Para la evaluación de las tareas planteadas en la situación de aprendizaje se emplearán dos instrumentos de evaluación complementarios, seleccionados en función de la naturaleza de cada actividad y del tipo de aprendizaje que se pretende valorar. Su elección responde a un enfoque de evaluación continua, formativa y competencial, permitiendo recoger información tanto del seguimiento del proceso como de la reflexión propia. </p>
+<p>Puedes ver el documento completo en el siguiente enlace:</p>
+<p><a href="https://docs.google.com/document/d/1sglgA4rWHOC3GknWIhGVErdZlH4234UWYH3ggkWbt2o/edit?usp=sharing" title="">https://docs.google.com/document/d/1sglgA4rWHOC3GknWIhGVErdZlH4234UWYH3ggkWbt2o/edit?usp=sharing</a></p>
+</div>
+<div class="exe-layout-2-cols exe-layout-2-50-50 exe-clear">
+<div class="exe-col exe-col-1">
+<div class="exe-fx exe-accordion">
+<h2 style="text-align: center;">LISTA DE COTEJO</h2>
+<p style="text-align: center;">La lista de cotejo se utilizará para evaluar la actividad Diario saludable, ya que se trata de una tarea individual centrada en el registro sistemático de hábitos y en la reflexión personal del alumnado.</p>
+<p style="text-align: center;">Este instrumento permite comprobar de forma objetiva, rápida y clara si el alumnado realiza el seguimiento de los aspectos esenciales vinculados a una rutina de vida saludable.</p>
+<h2 style="text-align: center;">RECURSO</h2>
+<figure class="exe-figure position-center" style="width: 1414px; text-align: center;"><img src="{{context_path}}/content/resources/8.1. Lista cotejo.jpg" width="1414" height="2000" alt="Lista de cotejo" />
+<figcaption class="figcaption"><span class="author">Paula Rando Jiménez</span>. <span class="title"><em>Elaboración propia.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>
+</div>
+<div class="exe-col exe-col-2">
+<div class="exe-fx exe-accordion">
+<h2 style="text-align: center;">DIANA DE EVALUACIÓN</h2>
+<p style="text-align: center;">La diana de evaluación se emplea en la actividad Circuito motriz como instrumento de autoevaluación, permitiendo que el alumnado valore su participación y reflexione sobre su propio desempeño en una tarea práctica y motriz.</p>
+<p style="text-align: center;">Se trata de un instrumento especialmente adecuado para Educación Física por su carácter visual, accesible y motivador, ya que facilita una autoevaluación rápida y comprensible para el alumnado.</p>
+<h2 style="text-align: center;">RECURSO</h2>
+<figure class="exe-figure" style="width: 1414px; text-align: center;"><img src="{{context_path}}/content/resources/8.1. Diana de evaluación.jpg" width="1414" height="2000" alt="Diana de autoevaluación" />
+<figcaption class="figcaption"><span class="author">Paula Rando Jiménez</span>. <span class="title"><em>Elaboración propia.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996249930-kzf1awptt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-layout-2-cols exe-layout-2-50-50 exe-clear\">\n<div class=\"exe-fx exe-carousel\">\n<p>Para la evaluación de las tareas planteadas en la situación de aprendizaje se emplearán dos instrumentos de evaluación complementarios, seleccionados en función de la naturaleza de cada actividad y del tipo de aprendizaje que se pretende valorar. Su elección responde a un enfoque de evaluación continua, formativa y competencial, permitiendo recoger información tanto del seguimiento del proceso como de la reflexión propia. </p>\n<p>Puedes ver el documento completo en el siguiente enlace:</p>\n<p><a href=\"https://docs.google.com/document/d/1sglgA4rWHOC3GknWIhGVErdZlH4234UWYH3ggkWbt2o/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1sglgA4rWHOC3GknWIhGVErdZlH4234UWYH3ggkWbt2o/edit?usp=sharing</a></p>\n</div>\n<div class=\"exe-layout-2-cols exe-layout-2-50-50 exe-clear\">\n<div class=\"exe-col exe-col-1\">\n<div class=\"exe-fx exe-accordion\">\n<h2 style=\"text-align: center;\">LISTA DE COTEJO</h2>\n<p style=\"text-align: center;\">La lista de cotejo se utilizará para evaluar la actividad Diario saludable, ya que se trata de una tarea individual centrada en el registro sistemático de hábitos y en la reflexión personal del alumnado.</p>\n<p style=\"text-align: center;\">Este instrumento permite comprobar de forma objetiva, rápida y clara si el alumnado realiza el seguimiento de los aspectos esenciales vinculados a una rutina de vida saludable.</p>\n<h2 style=\"text-align: center;\">RECURSO</h2>\n<figure class=\"exe-figure position-center\" style=\"width: 1414px; text-align: center;\"><img src=\"{{context_path}}/content/resources/8.1. Lista cotejo.jpg\" width=\"1414\" height=\"2000\" alt=\"Lista de cotejo\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Paula Rando Jiménez</span>. <span class=\"title\"><em>Elaboración propia.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n</div>\n</div>\n<div class=\"exe-col exe-col-2\">\n<div class=\"exe-fx exe-accordion\">\n<h2 style=\"text-align: center;\">DIANA DE EVALUACIÓN</h2>\n<p style=\"text-align: center;\">La diana de evaluación se emplea en la actividad Circuito motriz como instrumento de autoevaluación, permitiendo que el alumnado valore su participación y reflexione sobre su propio desempeño en una tarea práctica y motriz.</p>\n<p style=\"text-align: center;\">Se trata de un instrumento especialmente adecuado para Educación Física por su carácter visual, accesible y motivador, ya que facilita una autoevaluación rápida y comprensible para el alumnado.</p>\n<h2 style=\"text-align: center;\">RECURSO</h2>\n<figure class=\"exe-figure\" style=\"width: 1414px; text-align: center;\"><img src=\"{{context_path}}/content/resources/8.1. Diana de evaluación.jpg\" width=\"1414\" height=\"2000\" alt=\"Diana de autoevaluación\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Paula Rando Jiménez</span>. <span class=\"title\"><em>Elaboración propia.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n</div>\n</div>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9u-e7qk0nen3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CONCLUSIÓN</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONCLUSIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONCLUSIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CONCLUSIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9u-e7qk0nen3</odePageId>
+      <odeBlockId>block-1777998297712-gpj3k7kjl</odeBlockId>
+      <blockName>Nuestra aventura</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9u-e7qk0nen3</odePageId>
+          <odeBlockId>block-1777998297712-gpj3k7kjl</odeBlockId>
+          <odeIdeviceId>idevice-1777998297690-r0cpppgdg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Habéis llegado al final de esta gran aventura y os habéis convertido en verdaderos Exploradores Saludables. Durante este viaje habéis aprendido que cuidar vuestro cuerpo, vuestra mente y vuestras emociones es un tesoro que os acompañará siempre. Cada juego, cada reto y cada descubrimiento os ha ayudado a crecer, a compartir, a disfrutar y a aprender juntos. Habéis demostrado entusiasmo, valentía y muchas ganas de seguir explorando hábitos saludables que os hacen más fuertes y felices cada día. </p>
+<p>Hoy cerramos esta aventura con un gran tesoro: nuestro póster final, un mural lleno de colores, recuerdos y logros que representa todo lo vivido. En él quedan reflejadas las experiencias, aprendizajes y sonrisas que hicieron de este proyecto un viaje inolvidable.</p>
+<h5><br /></h5>
+<figure class="exe-figure position-center" style="width: 1536px; text-align: center;"><img src="{{context_path}}/content/resources/ChatGPT Image 5 may 2026, 18_27_05.png" width="1536" height="1024" alt="Póster final" />
+<figcaption class="figcaption"><span class="author">Paula Rando Jiménez</span>. <span class="title"><em>Imagen generada con apoyo de inteligencia artificial (ChatGPT). Elaboración propia.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<h2 style="text-align: center;">Porque ser un Explorador Saludable no termina aquí… es una aventura que continúa cada día.</h2>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998297690-r0cpppgdg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Habéis llegado al final de esta gran aventura y os habéis convertido en verdaderos Exploradores Saludables. Durante este viaje habéis aprendido que cuidar vuestro cuerpo, vuestra mente y vuestras emociones es un tesoro que os acompañará siempre. Cada juego, cada reto y cada descubrimiento os ha ayudado a crecer, a compartir, a disfrutar y a aprender juntos. Habéis demostrado entusiasmo, valentía y muchas ganas de seguir explorando hábitos saludables que os hacen más fuertes y felices cada día. </p>\n<p>Hoy cerramos esta aventura con un gran tesoro: nuestro póster final, un mural lleno de colores, recuerdos y logros que representa todo lo vivido. En él quedan reflejadas las experiencias, aprendizajes y sonrisas que hicieron de este proyecto un viaje inolvidable.</p>\n<h5><br /></h5>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px; text-align: center;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 5 may 2026, 18_27_05.png\" width=\"1536\" height=\"1024\" alt=\"Póster final\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Paula Rando Jiménez</span>. <span class=\"title\"><em>Imagen generada con apoyo de inteligencia artificial (ChatGPT). Elaboración propia.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<h2 style=\"text-align: center;\">Porque ser un Explorador Saludable no termina aquí… es una aventura que continúa cada día.</h2>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyso9v-4z00c5c4s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyso9v-4z00c5c4s</odePageId>
+      <odeBlockId>block-1778000087556-gy3xv3gf3</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyso9v-4z00c5c4s</odePageId>
+          <odeBlockId>block-1778000087556-gy3xv3gf3</odeBlockId>
+          <odeIdeviceId>idevice-1778000087554-1zhgvsoal</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="206" style="width: 71.2114%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 19.7947%;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">EXPLORADORES SALUDABLES</span></td>
+</tr>
+<tr>
+<th style="width: 19.7947%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 19.7947%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Paula Rando Jiménez</span></td>
+</tr>
+<tr>
+<th style="width: 19.7947%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
